@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 📜 API RESTful: Inventário de Relíquias Históricas Perdidas
 
 Funcionalidades Principais
@@ -356,3 +357,6 @@ URL: /api/
 Método: GET
 Respostas:
 Sucesso (200 OK): Retorna um JSON com a estrutura de todos os endpoints e exemplos, conforme definido em generic/Endpoint.php.
+=======
+# ReliquiasPerdidas
+>>>>>>> 3735111fea863480f8f53351f6a94446fcd926ae
