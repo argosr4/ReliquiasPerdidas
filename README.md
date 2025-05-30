@@ -1,12 +1,4 @@
-Estou feliz em ajudar a refinar a documentação! Parece que você teve um conflito de merge (<<<<<<< HEAD e >>>>>>> 3735111...) que deixou um pedaço de código no meio. Eu vou limpar isso e aplicar as melhorias que você mencionou para deixar o README ainda mais profissional e fácil de ler.
 
-Vamos focar em:
-
-Visualização limpa no Markdown: Garantir que o código e os exemplos JSON apareçam formatados corretamente.
-Hierarquia clara: Usar títulos e subtítulos de forma consistente.
-Chamadas para ação: Onde apropriado, indicar o que o usuário deve fazer.
-Linguagem concisa e direta: Remover redundâncias.
-Destaques: Usar negrito para termos importantes.
 📜 API RESTful: Inventário de Relíquias Históricas Perdidas
 Bem-vindo à documentação da API RESTful para o Inventário de Relíquias Históricas Perdidas!
 
