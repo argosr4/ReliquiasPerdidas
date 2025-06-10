@@ -1,0 +1,9 @@
+# Pasta do Composer
+/vendor/
+
+# Arquivo de configuração com dados sensíveis
+config.php
+
+# Arquivos de log e de ambiente
+*.log
+.env

@@ -1,0 +1,19 @@
+{
+    "require": {
+        "firebase/php-jwt": "^6.10"
+    },
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "controllers/",
+            "Services\\": "service/",
+            "Generic\\": "generic/",
+            "Middleware\\": "middleware/"
+        },
+        "classmap": [
+            "dao/"
+        ]
+    },
+    "config": {
+        "optimize-autoloader": true
+    }
+}
